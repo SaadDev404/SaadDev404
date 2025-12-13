@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Muhammad Saad | GitHub README</title>
 </head>
 <body style="background-color:#0D1117; color:#ffffff; font-family:Arial, sans-serif;">
 
@@ -107,9 +106,16 @@
 <hr />
 
 <h2>📊 GitHub Stats</h2>
+<div align="center"><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaadDev404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadDev404&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff&currStreakLabel=36BCF7" width="48%" alt="GitHub Streak"/>
+</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadDev404&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadDev404&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadDev404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadDev404&theme=tokyonight&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="48%" alt="Contribution Graph"/>
+</div>
+
 </div>
 
 <hr />
