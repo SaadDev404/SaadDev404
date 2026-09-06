@@ -1,362 +1,216 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-</head>
+<h1 align="center">Muhammad Saad</h1>
 
-<body style="color:#ffffff; font-family:Arial, sans-serif;">
-
-<h1 align="center">Muhammad Saad | Full Stack Developer</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=700&height=100&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;AI+%26+LLM+Integration;Web+%26+Mobile+Applications;Building+Production-Ready+Products" />
-</div>
-
-<br />
-
-<div align="center">
-
-  <a href="https://github.com/SaadDev404">
-    <img src="https://img.shields.io/badge/GitHub-SaadDev404-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="mailto:saad.dev.404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<hr />
-
-<div align="center">
-
-<h3>Full Stack Developer | AI & LLM Integration | Web & Mobile</h3>
-
-<p>
-Building scalable, production-ready web and mobile applications with
-<strong>React, Next.js, React Native, Node.js, TypeScript, MongoDB</strong>
-and modern AI/LLM integrations.
+<p align="center">
+  <strong>Full Stack Developer · AI & LLM Integration · Cloud & DevOps</strong>
 </p>
 
-</div>
-
-<hr />
-
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I'm a Full Stack Developer focused on building real-world digital products
-from frontend to backend, APIs, databases, integrations, and deployment.
+<p align="center">
+  Building scalable, secure and production-ready web and mobile applications.
 </p>
 
-<p>
-My experience includes developing
-<strong>SaaS platforms, marketplaces, AI-powered applications, mobile apps,
-CRM systems, booking platforms, payment workflows, real-time applications,
-and business automation solutions.</strong>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-saad-987160328/">LinkedIn</a>
+  ·
+  <a href="https://saaddev404-git-dev-saaddev404s-projects.vercel.app/">Portfolio</a>
+  ·
+  <a href="mailto:saad.dev.404@gmail.com">Email</a>
 </p>
 
-<p>
-I enjoy solving product and engineering problems end-to-end — understanding
-the requirement, designing the architecture, building the application,
-integrating third-party services, and taking features toward production.
-</p>
-
-<p>
-I'm particularly interested in
-<strong>AI/LLM application development, intelligent workflows,
-automation, API integrations, and scalable full-stack systems.</strong>
-</p>
-
-<hr />
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>Languages</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</div>
-
-<h3>Frontend & Mobile</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</div>
-
-<h3>Backend</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</div>
-
-<h3>Databases</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
-
-<h3>AI & Integrations</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-</div>
-
-<h3>DevOps & Tools</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</div>
-
-<hr />
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🌿 Seea — Holistic Wellness Marketplace</h3>
-
-<p>
-Production-grade multi-role marketplace connecting seekers with verified
-practitioners, services, events, trainings, and wellness programs.
-</p>
-
-<ul>
-  <li>Built full-stack marketplace workflows for seekers, practitioners and administrators.</li>
-  <li>Implemented booking, scheduling, cancellations, rescheduling and automated workflows.</li>
-  <li>Integrated Stripe and Wise for payments, refunds, payouts and financial workflows.</li>
-  <li>Implemented real-time messaging with Socket.IO and SMS workflows using Twilio.</li>
-  <li>Integrated Google Calendar, Outlook Calendar, Google Meet and Zoom.</li>
-  <li>Developed OpenAI-powered AI assistant functionality for contextual customer support.</li>
-  <li>Built CRM and marketing automation workflows.</li>
-</ul>
-
-<p>
-<strong>Stack:</strong> React, Vite, Redux Toolkit, React Query, Tailwind CSS,
-Material UI, Node.js, Express.js, MongoDB, Socket.IO, Stripe, Wise, Twilio,
-OpenAI, Google OAuth, Google Calendar, Zoom, JWT
-</p>
-
-<hr />
-
-<h3>🤖 CareMatch AI — AI-Powered Senior Care Platform</h3>
-
-<p>
-AI-powered senior-care discovery platform designed to help families find
-suitable care facilities based on their needs and preferences.
-</p>
-
-<ul>
-  <li>Built responsive frontend and application workflows.</li>
-  <li>Implemented intelligent facility discovery and matching experiences.</li>
-  <li>Integrated AI-powered chatbot functionality.</li>
-  <li>Worked with structured facility data and administrative workflows.</li>
-  <li>Developed modern responsive interfaces using React and Vite.</li>
-</ul>
-
-<p>
-<strong>Stack:</strong> React, Vite, Tailwind CSS, Material UI, Redux Toolkit,
-OpenAI API
-</p>
-
-<hr />
-
-<h3>🎬 Videxa — Video Production Platform</h3>
-
-<p>
-Production-grade full-stack digital platform developed for a professional
-video production studio, combining a premium portfolio experience with
-real business operations.
-</p>
-
-<ul>
-  <li>Built responsive marketing and portfolio experience.</li>
-  <li>Implemented project showcases and detailed project pages.</li>
-  <li>Developed video content and booking workflows.</li>
-  <li>Built lead capture and structured project request functionality.</li>
-  <li>Integrated Google OAuth, Google Calendar and Calendly.</li>
-  <li>Integrated Google Analytics for business insights.</li>
-  <li>Implemented JWT authentication and Swagger/OpenAPI documentation.</li>
-</ul>
-
-<p>
-<strong>Stack:</strong> React, TypeScript, Vite, Tailwind CSS, Node.js,
-Express.js, MongoDB, Google OAuth, Google Calendar, Calendly,
-Google Analytics, JWT, Swagger/OpenAPI
-</p>
-
-<hr />
-
-<h3>🐾 Fyndria / ZooDoc — Veterinary Marketplace</h3>
-
-<p>
-Full-stack veterinary marketplace connecting pet owners with veterinary
-professionals and clinics.
-</p>
-
-<ul>
-  <li>Developed provider and clinic discovery workflows.</li>
-  <li>Implemented veterinarian and clinic profiles.</li>
-  <li>Built booking and appointment workflows.</li>
-  <li>Implemented role-based functionality for platform users.</li>
-  <li>Integrated Stripe payment workflows.</li>
-  <li>Built mobile experiences using React Native and Expo.</li>
-  <li>Implemented real-time communication using Socket.IO.</li>
-</ul>
+---
 
-<p>
-<strong>Stack:</strong> React, React Native, Expo, Vite, Tailwind CSS,
-Redux Toolkit, Node.js, Express.js, MongoDB, Stripe, Socket.IO
-</p>
+## About
 
-<hr />
+Full Stack Developer with 3.5+ years of experience building scalable web and mobile applications across marketplaces, SaaS platforms, AI-powered products, business systems and commerce platforms.
 
-<h3>🕵️ Authentic Detective — Luxury Authentication Platform</h3>
+I work across the complete product lifecycle — from frontend architecture and backend APIs to databases, third-party integrations, cloud infrastructure, CI/CD and production deployment.
 
-<p>
-Full-stack luxury-goods authentication and marketplace platform combining
-product authentication, certificates, business profiles and administrative
-management.
-</p>
+My primary focus is:
 
-<ul>
-  <li>Developed authentication and marketplace workflows.</li>
-  <li>Built product and certificate experiences.</li>
-  <li>Developed business profiles and platform management features.</li>
-  <li>Built administrative dashboard functionality.</li>
-  <li>Integrated Stripe payment functionality.</li>
-  <li>Worked with AWS-based deployment and production workflows.</li>
-</ul>
+- Full Stack Web & Mobile Development
+- Backend Architecture & REST APIs
+- AI & LLM Integration
+- Cloud & DevOps
+- Payment & Third-Party Integrations
+- Authentication & Authorization
+- Real-Time Applications
+- Production Deployment & Optimization
 
-<p>
-<strong>Stack:</strong> React, Vite, Next.js, Node.js, Express.js, MongoDB,
-Stripe, AWS, Docker, GitHub Actions
-</p>
+---
 
-<hr />
+## Technical Skills
 
-<h3>📱 Ance — Financial & Investment Mobile Platform</h3>
+### Frontend
+React.js · Next.js · React Native · TypeScript · JavaScript · Redux · Vite · Tailwind CSS · Material UI · Chakra UI · HTML5 · CSS3
 
-<p>
-Production-oriented mobile platform combining financial, investment,
-social and learning experiences.
-</p>
+### Backend
+Node.js · Express.js · Nest.js · REST APIs · GraphQL · JWT · OAuth · Passport.js · WebSockets · Socket.IO
 
-<ul>
-  <li>Developing the React Native mobile application and Node.js backend.</li>
-  <li>Implemented onboarding, authentication, profiles and role-based functionality.</li>
-  <li>Built social and real-time communication experiences.</li>
-  <li>Developed lesson and learning workflows with interactive completion states.</li>
-  <li>Working on financial institution integrations including American Express,
-      Chase, Bank of America, Fidelity Investments, Capital One and Discover.</li>
-  <li>Implemented REST APIs, validation and API documentation.</li>
-</ul>
+### Databases
+MongoDB · Mongoose · PostgreSQL · MySQL · Redis · SQLite · Sequelize · CouchDB · Cassandra
 
-<p>
-<strong>Stack:</strong> React Native, Expo, Redux Toolkit, TypeScript,
-Node.js, Express.js, MongoDB, Socket.IO, JWT, Joi, Swagger/OpenAPI
-</p>
+### AI & Automation
+OpenAI API · LLM Integration · AI-Powered Applications · Conversational AI · Prompt Engineering · AI Workflows
 
-<hr />
+### Cloud & DevOps
+AWS · AWS EC2 · Docker · CI/CD · GitHub Actions · PM2 · Cloud Deployment · Production Monitoring
 
-<h2>💼 Professional Experience</h2>
+### Payments & Integrations
+Stripe · PayPal · Wise · 2Checkout · Google OAuth · Google Calendar · Calendly · Twilio
 
-<h3>Associate Developer — BugMonks</h3>
+### Testing & Development
+Jest · Cypress · ESLint · Swagger/OpenAPI · Joi · Zod · Git · GitHub
 
-<p><em>2024 – Present</em></p>
+### Tools & Workflow
+JIRA · Asana · Trello · Slack · Microsoft Teams · NPM · Yarn
 
-<ul>
-  <li>Developing production-oriented web and mobile applications.</li>
-  <li>Working across frontend, backend, APIs, databases and third-party integrations.</li>
-  <li>Building scalable React, React Native and Node.js applications.</li>
-  <li>Working on complex product workflows, authentication, payments and real-time functionality.</li>
-</ul>
+---
 
-<h3>Software Engineering Intern — DevWolfz</h3>
+## Experience
 
-<p><em>3 Months</em></p>
+### Senior Technical & Analytical Advisor — BugMonks
+**March 2024 – Present · Remote**
 
-<ul>
-  <li>Worked with MERN stack technologies on real-world application development.</li>
-  <li>Developed frontend components and backend APIs.</li>
-  <li>Integrated frontend applications with REST APIs and databases.</li>
-</ul>
+- Provide technical guidance for scalable and AI-driven solutions tailored to client requirements.
+- Drive data analysis and system performance optimization.
+- Lead integration of emerging technologies into enterprise systems.
+- Collaborate with cross-functional teams to define and implement long-term technical strategies.
+- Contribute to scalable full-stack applications, backend systems and production workflows.
 
-<h3>Software Engineering Intern — Tekvill</h3>
+### Software Engineer — DevWolfz
+**December 2023 · Remote · United States**
 
-<p>
-Worked on software development tasks and gained practical experience
-building and maintaining web applications.
-</p>
+- Developed full-stack applications using Next.js, Node.js and Express.js.
+- Worked with PostgreSQL and MongoDB to build scalable application backends.
+- Contributed to cloud-native software solutions.
+- Used GitHub for version control and collaborative development.
 
-<hr />
+### Software Engineer — Tekvill
+**July 2023 – September 2024 · Hybrid · Lahore**
 
-<h2>📊 GitHub Stats</h2>
+- Developed web and mobile applications using the MERN stack and Next.js.
+- Built backend services and APIs using Node.js and Express.js.
+- Worked extensively with MongoDB and React.js.
+- Explored and integrated AI capabilities using OpenAI.
+- Contributed to production-oriented software solutions across web and mobile platforms.
 
-<div align="center">
+---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadDev404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="48%" />
+## Selected Projects
 
-  <img src="https://streak-stats.demolab.com?user=SaadDev404&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff&currStreakLabel=36BCF7" width="48%" />
+### Seea — Holistic Wellness Marketplace
 
-</div>
+Full-stack marketplace connecting seekers with verified practitioners, services, events and trainings.
 
-<br />
+**Stack:** React · Vite · Redux Toolkit · React Query · Tailwind CSS · Node.js · Express.js · MongoDB · Stripe · Wise · Socket.IO · Twilio · OpenAI · Google Calendar · Zoom
 
-<div align="center">
+**Live:** https://www.seea.co/
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadDev404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" width="48%" />
+---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadDev404&theme=tokyonight&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="48%" />
+### CareMatch AI — AI-Powered Senior Care Platform
 
-</div>
+AI-assisted senior-care discovery platform that uses conversational intake and explainable matching to help families find suitable care facilities.
 
-<hr />
+**Stack:** React · Vite · JavaScript · Tailwind CSS · Material UI · Redux Toolkit · Node.js · Express.js · MongoDB · OpenAI API · JWT · Swagger/OpenAPI · Apify
 
-<h2>📫 Let's Connect</h2>
+**Highlights:**
+- OpenAI-powered conversational intake
+- Deterministic facility matching engine
+- Ranked and explainable recommendations
+- Authentication and secure user workflows
+- Automated facility-data ingestion
 
-<div align="center">
+---
 
-  <a href="https://github.com/SaadDev404">
-    <img src="https://img.shields.io/badge/GitHub-SaadDev404-181717?style=for-the-badge&logo=github" />
-  </a>
+### Authentic Detective — Luxury Authentication Platform
 
-  <a href="mailto:saad.dev.404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saadb.dev.404%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Full-stack platform for luxury goods authentication and marketplace workflows, with compliance, payments, communication and operational management capabilities.
 
-</div>
+**Stack:** React · Next.js · Node.js · Express.js · MongoDB · Redux Toolkit · TanStack Query · Stripe · Firebase · GitHub Actions · AWS EC2 · PM2
 
-<br />
+**Live:** https://www.authenticdetective.com/
 
-<div align="center">
+**Highlights:**
+- Scalable REST API architecture
+- JWT authentication and role-based authorization
+- Next.js + React application architecture
+- Stripe payment integration
+- Firebase Cloud Messaging
+- Automated CI/CD with GitHub Actions
+- AWS EC2 deployment managed with PM2
 
-<strong>Building products. Solving problems. Shipping solutions.</strong>
+---
 
-</div>
+### ZooDoc — Veterinary Marketplace
 
-</body>
-</html>
+Full-stack veterinary marketplace connecting pet owners with clinics for discovery, reviews and appointment booking.
+
+**Stack:** React · React Native · Expo · Vite · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MongoDB · Stripe · Wise · JWT · Swagger/OpenAPI
+
+**Highlights:**
+- Web and mobile applications
+- Role-based authentication
+- Clinic and provider management
+- Appointment and booking workflows
+- Stripe and Wise payment integration
+- Admin analytics and operational dashboards
+
+---
+
+### Ance — Global Community Platform
+
+Production-grade cross-platform application connecting athletes, coaches and meet organizers within a unified ecosystem.
+
+**Stack:** React Native · Expo · TypeScript · Redux Toolkit · Node.js · Express.js · MongoDB · Socket.IO · JWT · Passport.js · OpenAI API
+
+**Highlights:**
+- Cross-platform React Native application
+- Role-based authentication
+- Real-time communication
+- Event and registration workflows
+- REST APIs with Swagger/OpenAPI
+- OpenAI-powered backend capabilities
+
+---
+
+### Videxa — Video Production Platform
+
+Full-stack platform for a video production studio covering marketing, lead capture, project intake, client management and scheduling.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · Google OAuth · Google Calendar API · Calendly · Google Analytics API · Swagger/OpenAPI
+
+**Highlights:**
+- Conversion-focused marketing interface
+- Lead and project management
+- Client authentication
+- Google Calendar integration
+- Calendly integration
+- Analytics and reporting
+- REST API architecture
+
+---
+
+## What I Build
+
+```text
+Web Applications
+├── SaaS Platforms
+├── Marketplaces
+├── Business Applications
+├── AI-Powered Products
+└── Admin & Management Systems
+
+Mobile Applications
+├── React Native
+├── Expo
+├── Cross-Platform Apps
+└── Real-Time Applications
+
+Backend & Infrastructure
+├── REST / GraphQL APIs
+├── Authentication & Authorization
+├── Database Architecture
+├── Third-Party Integrations
+├── AWS
+├── Docker
+└── CI/CD
