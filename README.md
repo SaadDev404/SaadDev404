@@ -1,216 +1,662 @@
-<h1 align="center">Muhammad Saad</h1>
+<!-- ========================================================= -->
+<!--                    ANIMATED HEADER                        -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <strong>Full Stack Developer · AI & LLM Integration · Cloud & DevOps</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Muhammad+Saad;Full+Stack+Developer;AI+%26+LLM+Integration;Cloud+%26+DevOps;Web+%26+Mobile+Applications"
+    alt="Muhammad Saad"
+  />
 </p>
 
 <p align="center">
-  Building scalable, secure and production-ready web and mobile applications.
+  <strong>
+    Building scalable, production-ready web and mobile applications
+    with modern full-stack technologies.
+  </strong>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-saad-987160328/">LinkedIn</a>
-  ·
-  <a href="https://saaddev404-git-dev-saaddev404s-projects.vercel.app/">Portfolio</a>
-  ·
-  <a href="mailto:saad.dev.404@gmail.com">Email</a>
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:saad.dev.404@gmail.com">
+    Email
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/SaadDev404">
+    GitHub
+  </a>
 </p>
 
 ---
 
-## About
+<!-- ========================================================= -->
+<!--                         ABOUT                             -->
+<!-- ========================================================= -->
 
-Full Stack Developer with 3.5+ years of experience building scalable web and mobile applications across marketplaces, SaaS platforms, AI-powered products, business systems and commerce platforms.
+<h2 align="center">About Me</h2>
 
-I work across the complete product lifecycle — from frontend architecture and backend APIs to databases, third-party integrations, cloud infrastructure, CI/CD and production deployment.
+<p align="center">
+  Full Stack Developer with <strong>3.5+ years of professional experience</strong>,
+  focused on building scalable web and mobile applications, backend systems,
+  API integrations, AI-powered applications, and cloud deployments.
+</p>
 
-My primary focus is:
+<p align="center">
+  I work primarily across the JavaScript / TypeScript ecosystem,
+  combining frontend engineering, backend architecture, databases,
+  third-party integrations, AI/LLM capabilities, and DevOps practices
+  to deliver production-ready software.
+</p>
 
-- Full Stack Web & Mobile Development
-- Backend Architecture & REST APIs
-- AI & LLM Integration
-- Cloud & DevOps
-- Payment & Third-Party Integrations
-- Authentication & Authorization
-- Real-Time Applications
-- Production Deployment & Optimization
+<br>
 
 ---
 
-## Technical Skills
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
+
+<h2 align="center">Technical Expertise</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ### Frontend
-React.js · Next.js · React Native · TypeScript · JavaScript · Redux · Vite · Tailwind CSS · Material UI · Chakra UI · HTML5 · CSS3
+
+React.js  
+Next.js  
+React Native  
+TypeScript  
+JavaScript  
+Vite  
+Redux Toolkit  
+React Query  
+Tailwind CSS  
+Material UI  
+Radix UI  
+HTML5 / CSS3
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Backend
-Node.js · Express.js · Nest.js · REST APIs · GraphQL · JWT · OAuth · Passport.js · WebSockets · Socket.IO
+
+Node.js  
+Express.js  
+REST APIs  
+GraphQL  
+JWT  
+OAuth / Passport.js  
+WebSockets / Socket.IO  
+Swagger / OpenAPI  
+Cron Jobs  
+Authentication & RBAC
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Databases
-MongoDB · Mongoose · PostgreSQL · MySQL · Redis · SQLite · Sequelize · CouchDB · Cassandra
 
-### AI & Automation
-OpenAI API · LLM Integration · AI-Powered Applications · Conversational AI · Prompt Engineering · AI Workflows
+MongoDB  
+Mongoose  
+PostgreSQL  
+MySQL  
+Redis  
+SQLite  
+Sequelize
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Cloud & DevOps
-AWS · AWS EC2 · Docker · CI/CD · GitHub Actions · PM2 · Cloud Deployment · Production Monitoring
 
-### Payments & Integrations
-Stripe · PayPal · Wise · 2Checkout · Google OAuth · Google Calendar · Calendly · Twilio
+AWS EC2  
+Docker  
+GitHub Actions  
+CI/CD  
+PM2  
+Git / GitHub  
+Cloud Deployments  
+Production Monitoring  
+Automated Deployment
 
-### Testing & Development
-Jest · Cypress · ESLint · Swagger/OpenAPI · Joi · Zod · Git · GitHub
+</td>
+</tr>
 
-### Tools & Workflow
-JIRA · Asana · Trello · Slack · Microsoft Teams · NPM · Yarn
+<tr>
+<td width="50%" valign="top">
 
----
+### AI & Integrations
 
-## Experience
+OpenAI API  
+LLM Applications  
+AI Assistants  
+Conversational AI  
+AI-powered Recommendations  
+Google APIs  
+Google OAuth  
+Google Calendar  
+Zoom  
+Twilio
 
-### Senior Technical & Analytical Advisor — BugMonks
-**March 2024 – Present · Remote**
+</td>
 
-- Provide technical guidance for scalable and AI-driven solutions tailored to client requirements.
-- Drive data analysis and system performance optimization.
-- Lead integration of emerging technologies into enterprise systems.
-- Collaborate with cross-functional teams to define and implement long-term technical strategies.
-- Contribute to scalable full-stack applications, backend systems and production workflows.
+<td width="50%" valign="top">
 
-### Software Engineer — DevWolfz
-**December 2023 · Remote · United States**
+### Payments & Services
 
-- Developed full-stack applications using Next.js, Node.js and Express.js.
-- Worked with PostgreSQL and MongoDB to build scalable application backends.
-- Contributed to cloud-native software solutions.
-- Used GitHub for version control and collaborative development.
+Stripe  
+Wise  
+PayPal  
+Payment Webhooks  
+Subscriptions  
+Refunds  
+Payouts  
+Transactional Workflows  
+Third-party API Integrations
 
-### Software Engineer — Tekvill
-**July 2023 – September 2024 · Hybrid · Lahore**
-
-- Developed web and mobile applications using the MERN stack and Next.js.
-- Built backend services and APIs using Node.js and Express.js.
-- Worked extensively with MongoDB and React.js.
-- Explored and integrated AI capabilities using OpenAI.
-- Contributed to production-oriented software solutions across web and mobile platforms.
-
----
-
-## Selected Projects
-
-### Seea — Holistic Wellness Marketplace
-
-Full-stack marketplace connecting seekers with verified practitioners, services, events and trainings.
-
-**Stack:** React · Vite · Redux Toolkit · React Query · Tailwind CSS · Node.js · Express.js · MongoDB · Stripe · Wise · Socket.IO · Twilio · OpenAI · Google Calendar · Zoom
-
-**Live:** https://www.seea.co/
+</td>
+</tr>
+</table>
 
 ---
 
-### CareMatch AI — AI-Powered Senior Care Platform
+<!-- ========================================================= -->
+<!--                       EXPERIENCE                          -->
+<!-- ========================================================= -->
 
-AI-assisted senior-care discovery platform that uses conversational intake and explainable matching to help families find suitable care facilities.
+<h2 align="center">Professional Experience</h2>
 
-**Stack:** React · Vite · JavaScript · Tailwind CSS · Material UI · Redux Toolkit · Node.js · Express.js · MongoDB · OpenAI API · JWT · Swagger/OpenAPI · Apify
+<h3>Senior Technical & Analytical Advisor — BugMonks</h3>
 
-**Highlights:**
-- OpenAI-powered conversational intake
-- Deterministic facility matching engine
-- Ranked and explainable recommendations
-- Authentication and secure user workflows
-- Automated facility-data ingestion
+<p>
+  <strong>March 2024 — Present</strong>
+</p>
 
----
+<ul>
+  <li>
+    Provide technical guidance for scalable and AI-driven software solutions.
+  </li>
+  <li>
+    Analyze application performance, technical requirements, and system-level improvements.
+  </li>
+  <li>
+    Evaluate and integrate emerging technologies into production workflows.
+  </li>
+  <li>
+    Collaborate across teams to define long-term technical strategies.
+  </li>
+</ul>
 
-### Authentic Detective — Luxury Authentication Platform
+<h3>Software Engineer — DevWolfz</h3>
 
-Full-stack platform for luxury goods authentication and marketplace workflows, with compliance, payments, communication and operational management capabilities.
+<p>
+  <strong>December 2023</strong>
+</p>
 
-**Stack:** React · Next.js · Node.js · Express.js · MongoDB · Redux Toolkit · TanStack Query · Stripe · Firebase · GitHub Actions · AWS EC2 · PM2
+<ul>
+  <li>
+    Developed full-stack applications using Next.js, Node.js, and Express.js.
+  </li>
+  <li>
+    Worked with PostgreSQL and MongoDB for application data management.
+  </li>
+  <li>
+    Built cloud-oriented solutions and collaborated through GitHub-based workflows.
+  </li>
+</ul>
 
-**Live:** https://www.authenticdetective.com/
+<h3>Software Engineer — Tekvill</h3>
 
-**Highlights:**
-- Scalable REST API architecture
-- JWT authentication and role-based authorization
-- Next.js + React application architecture
-- Stripe payment integration
-- Firebase Cloud Messaging
-- Automated CI/CD with GitHub Actions
-- AWS EC2 deployment managed with PM2
+<p>
+  <strong>July 2023 — September 2024</strong>
+</p>
 
----
-
-### ZooDoc — Veterinary Marketplace
-
-Full-stack veterinary marketplace connecting pet owners with clinics for discovery, reviews and appointment booking.
-
-**Stack:** React · React Native · Expo · Vite · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MongoDB · Stripe · Wise · JWT · Swagger/OpenAPI
-
-**Highlights:**
-- Web and mobile applications
-- Role-based authentication
-- Clinic and provider management
-- Appointment and booking workflows
-- Stripe and Wise payment integration
-- Admin analytics and operational dashboards
-
----
-
-### Ance — Global Community Platform
-
-Production-grade cross-platform application connecting athletes, coaches and meet organizers within a unified ecosystem.
-
-**Stack:** React Native · Expo · TypeScript · Redux Toolkit · Node.js · Express.js · MongoDB · Socket.IO · JWT · Passport.js · OpenAI API
-
-**Highlights:**
-- Cross-platform React Native application
-- Role-based authentication
-- Real-time communication
-- Event and registration workflows
-- REST APIs with Swagger/OpenAPI
-- OpenAI-powered backend capabilities
-
----
-
-### Videxa — Video Production Platform
-
-Full-stack platform for a video production studio covering marketing, lead capture, project intake, client management and scheduling.
-
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · Google OAuth · Google Calendar API · Calendly · Google Analytics API · Swagger/OpenAPI
-
-**Highlights:**
-- Conversion-focused marketing interface
-- Lead and project management
-- Client authentication
-- Google Calendar integration
-- Calendly integration
-- Analytics and reporting
-- REST API architecture
+<ul>
+  <li>
+    Developed MERN and Next.js applications for production use cases.
+  </li>
+  <li>
+    Built backend services using Node.js, Express.js, and MongoDB.
+  </li>
+  <li>
+    Integrated AI capabilities and third-party services into applications.
+  </li>
+</ul>
 
 ---
 
-## What I Build
+<!-- ========================================================= -->
+<!--                    SELECTED PROJECTS                      -->
+<!-- ========================================================= -->
 
-```text
-Web Applications
-├── SaaS Platforms
-├── Marketplaces
-├── Business Applications
-├── AI-Powered Products
-└── Admin & Management Systems
+<h2 align="center">Selected Projects</h2>
 
-Mobile Applications
-├── React Native
-├── Expo
-├── Cross-Platform Apps
-└── Real-Time Applications
+<p align="center">
+  Production-focused applications across marketplaces, AI,
+  SaaS, mobile platforms, authentication systems, and digital services.
+</p>
 
-Backend & Infrastructure
-├── REST / GraphQL APIs
-├── Authentication & Authorization
-├── Database Architecture
-├── Third-Party Integrations
-├── AWS
-├── Docker
-└── CI/CD
+<br>
+
+<table>
+<tr>
+
+<!-- ========================= SEEAA ========================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://www.seea.co/" target="_blank">
+    <img
+      src="./assets/projects/seea.png"
+      alt="Seea"
+      width="100%"
+    >
+  </a>
+</p>
+
+<h3 align="center">Seea — Holistic Wellness Marketplace</h3>
+
+<p align="center">
+  Production-grade marketplace connecting seekers with verified
+  practitioners, services, events, trainings, and packages.
+</p>
+
+<p align="center">
+  <strong>
+    React · Vite · Redux Toolkit · React Query · Tailwind ·
+    Node.js · Express · MongoDB · Stripe · Wise · Socket.IO ·
+    Twilio · OpenAI · Google Calendar · Zoom
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://www.seea.co/" target="_blank">
+    Live Project
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+</p>
+
+</td>
+
+<!-- ========================= ZOODOC ======================== -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://zoodoc.org/" target="_blank">
+    <img
+      src="./assets/projects/zoodoc.png"
+      alt="ZooDoc"
+      width="100%"
+    >
+  </a>
+</p>
+
+<h3 align="center">ZooDoc — Veterinary Marketplace</h3>
+
+<p align="center">
+  Full-stack veterinary marketplace connecting pet owners
+  with clinics and veterinary professionals across web and mobile.
+</p>
+
+<p align="center">
+  <strong>
+    React · React Native · Expo · Vite · Tailwind · Redux Toolkit ·
+    Node.js · Express · MongoDB · Mongoose · Stripe · Wise ·
+    JWT · REST APIs · Swagger
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://zoodoc.org/" target="_blank">
+    Live Project
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ===================== AUTHENTIC DETECTIVE ================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://www.authenticdetective.com/" target="_blank">
+    <img
+      src="./assets/projects/authentic-detective.png"
+      alt="Authentic Detective"
+      width="100%"
+    >
+  </a>
+</p>
+
+<h3 align="center">Authentic Detective — Authentication Platform</h3>
+
+<p align="center">
+  Full-stack luxury-goods authentication and marketplace platform
+  with digital certificates, business workflows, and customer operations.
+</p>
+
+<p align="center">
+  <strong>
+    React · Vite · Next.js · Node.js · Express · MongoDB ·
+    Redux · TanStack Query · Stripe · Firebase · AWS EC2 ·
+    GitHub Actions · PM2
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://www.authenticdetective.com/" target="_blank">
+    Live Project
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+</p>
+
+</td>
+
+<!-- ========================= CAREMATCH ===================== -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    <img
+      src="./assets/projects/carematch-ai.png"
+      alt="CareMatch AI"
+      width="100%"
+    >
+  </a>
+</p>
+
+<h3 align="center">CareMatch AI — AI Senior-Care Platform</h3>
+
+<p align="center">
+  AI-assisted senior-care discovery platform helping families
+  find suitable care facilities through conversational intake
+  and intelligent matching.
+</p>
+
+<p align="center">
+  <strong>
+    React · Vite · Tailwind · Material UI · Redux Toolkit ·
+    Node.js · Express · MongoDB · OpenAI · JWT · Swagger · Apify
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    View Project
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- =========================== ANCE ======================== -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    <img
+      src="./assets/projects/ance.png"
+      alt="Ance"
+      width="100%"
+    >
+  </a>
+</p>
+
+<h3 align="center">Ance — Global Community Platform</h3>
+
+<p align="center">
+  Production-oriented cross-platform mobile application
+  featuring community functionality, authentication,
+  real-time communication, and AI-powered capabilities.
+</p>
+
+<p align="center">
+  <strong>
+    React Native · Expo · TypeScript · Redux Toolkit ·
+    Node.js · Express · MongoDB · Socket.IO · Passport.js ·
+    JWT · OpenAI
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    View Project
+  </a>
+</p>
+
+</td>
+
+<!-- ========================== VIDEXA ======================= -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    <img
+      src="./assets/projects/videxa.png"
+      alt="Videxa"
+      width="100%"
+    >
+  </a>
+</p>
+
+<h3 align="center">Videxa — Video Production Platform</h3>
+
+<p align="center">
+  Full-stack digital platform for a professional video production
+  studio covering marketing, lead capture, project intake,
+  client management, scheduling, and analytics.
+</p>
+
+<p align="center">
+  <strong>
+    React · TypeScript · Vite · Tailwind · Node.js · Express ·
+    MongoDB · Google OAuth · Google Calendar · Google Analytics ·
+    Calendly · JWT · Swagger
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    View Project
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                      WHAT I BUILD                         -->
+<!-- ========================================================= -->
+
+<h2 align="center">What I Build</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+<strong>Full-Stack Applications</strong>
+
+<br><br>
+
+Scalable web applications  
+REST APIs  
+Authentication  
+RBAC  
+Database architecture
+
+</td>
+
+<td align="center" width="25%">
+
+<strong>AI-Powered Products</strong>
+
+<br><br>
+
+LLM integrations  
+AI assistants  
+Conversational systems  
+Recommendations  
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+<strong>Marketplace Platforms</strong>
+
+<br><br>
+
+Bookings  
+Payments  
+Subscriptions  
+Payouts  
+Real-time messaging
+
+</td>
+
+<td align="center" width="25%">
+
+<strong>Cloud & DevOps</strong>
+
+<br><br>
+
+AWS  
+Docker  
+CI/CD  
+GitHub Actions  
+Production deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    GITHUB STATISTICS                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">GitHub Statistics</h2>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SaadDev404&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    height="170"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadDev404&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SaadDev404&hide_border=true&theme=transparent"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                  GITHUB ACTIVITY GRAPH                    -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaadDev404&bg_color=00000000&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION GRAPH                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadDev404&theme=transparent"
+    width="100%"
+    alt="GitHub Contribution Summary"
+  />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                     ANIMATED FOOTER                       -->
+<!-- ========================================================= -->
+
+<br>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+better+software.;Turning+ideas+into+production+systems.;Always+learning.+Always+building."
+    alt="Animated Footer"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://portfolio-two-pink-92.vercel.app/" target="_blank">
+    <strong>View My Portfolio</strong>
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Muhammad Saad · Full Stack Developer · AI & LLM Integration · Cloud & DevOps
+  </sub>
+</p>
